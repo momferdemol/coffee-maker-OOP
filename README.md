@@ -1,6 +1,6 @@
 
 <pre>
-  Title: CLI coffe maker App for learning python OOP
+  Title: CLI coffee maker App for learning python OOP
   Author: Momfer de Mol
   Status: WIP
   Created: 16-07-2023
